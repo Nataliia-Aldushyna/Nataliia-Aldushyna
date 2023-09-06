@@ -1,4 +1,3 @@
-![]()
 # Hi, my name is Nataliia 👋
 #### I'm a Graphic- and Web Designer :computer::art:
 ___
@@ -6,7 +5,6 @@ My passion is **Pixels** and **Code**.
 I am constantly striving to improve my skills in **Design** and **IT**,
 so the search for myself leads to continuous self-development and learning new technologies.
 ___
-
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
