@@ -1,4 +1,4 @@
-# Hi, my name is Nataliia 👋
+# Hi👋, my name is Nataliia
 #### I'm a Graphic- and Web Designer :computer::art:
 ___
 My passion is **Pixels** and **Code**.
