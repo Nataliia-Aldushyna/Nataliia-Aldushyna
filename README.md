@@ -7,36 +7,36 @@ so the search for myself leads to continuous self-development and learning new t
 
 #### You can email me for a request or just say hey - nataliia.aldushyna@gmail.com
 ___
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+### My skills
+![Adobe Creative Cloud](https://img.shields.io/badge/-AdobeCreativeCloud-black?style=flat&logo=AdobeCreativeCloud "")
+![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat&logo=AdobePhotoshop "")
+![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat&logo=AdobeIllustrator "")
+![Adobe InDesign](https://img.shields.io/badge/-AdobeInDesign-black?style=flat&logo=AdobeInDesign "")
+![Adobe After Effects](https://img.shields.io/badge/-AdobeAfterEffects-black?style=flat&logo=AdobeAfterEffects "")
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
-![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=Figma "")
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=AdobeXD "")
+![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat&logo=Sketch "")
+![Invision](https://img.shields.io/badge/-Invision-black?style=flat&logo=Invision "")
+
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=Sass "")
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap "")
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript "")
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript "")
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular "")
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=NodeJS "")
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL "")
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git "")
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub "")
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=Webpack "")
+
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=VisualStudioCode "")
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm "")
+![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat&logo=Xcode "")
 ___
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-___
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 <!--
 **Nataliia-Aldushyna/Nataliia-Aldushyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
