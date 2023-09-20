@@ -5,7 +5,7 @@ My passion is **Pixels** and **Code**.
 I am constantly striving to improve my skills in **Design** and **IT**,
 so the search for myself leads to continuous self-development and learning new technologies.
 
-#### You can email me for a request or just say hey - nataliia.aldushyna@gmail.com 📫
+#### You can email me for a request or just say hey - nataliia.aldushyna@gmail.com 
 ___
 ### My skills
 ![Adobe Creative Cloud](https://img.shields.io/badge/-AdobeCreativeCloud-black?style=flat&logo=AdobeCreativeCloud "")
@@ -26,16 +26,20 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript "")
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript "")
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular "")
+<!-- 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=NodeJS "")
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL "")
+-->
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git "")
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub "")
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=Webpack "")
 
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=VisualStudioCode "")
+<!--
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat&logo=WebStorm "")
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat&logo=Xcode "")
+-->
 ___
 
 <!--
