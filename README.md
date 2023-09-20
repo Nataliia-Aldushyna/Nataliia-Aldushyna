@@ -32,7 +32,7 @@ ___
 -->
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git "")
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub "")
+<!--![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub "")-->
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=Webpack "")
 
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=VisualStudioCode "")
