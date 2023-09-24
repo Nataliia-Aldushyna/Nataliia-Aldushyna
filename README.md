@@ -1,9 +1,7 @@
 # Hi👋, my name is Nataliia
 #### I'm a Graphic- and Web Designer :computer::art:
 ___
-My passion is **Pixels** and **Code**.
-I am constantly striving to improve my skills in **Design** and **IT**,
-so the search for myself leads to continuous self-development and learning new technologies.
+My passion is **Pixels** and **Code**. I constantly strive to improve my skills in **Design** and **IT**. While on my journey of self-discovery, I am continuously driven to pursue self-development and acquire new technological skills.
 
 #### You can email me for a request or just say hey - nataliia.aldushyna@gmail.com 
 ___
