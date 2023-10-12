@@ -3,7 +3,7 @@
 ___
 My passion is **Pixels** and **Code**. I constantly strive to improve my skills in **Design** and **IT**. While on my journey of self-discovery, I am continuously driven to pursue self-development and acquire new technological skills.
 
-#### You can email me for a request or just say hey - nataliia.aldushyna@gmail.com 
+#### You can email me - nataliia.aldushyna@gmail.com 
 ___
 ### My skills
 ![Adobe Creative Cloud](https://img.shields.io/badge/-AdobeCreativeCloud-black?style=flat&logo=AdobeCreativeCloud "")
