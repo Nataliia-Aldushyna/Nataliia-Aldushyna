@@ -22,9 +22,10 @@ ___
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=Sass "")
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap "")
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript "")
+
+<!-- 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript "")
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular "")
-<!-- 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=NodeJS "")
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL "")
 -->
