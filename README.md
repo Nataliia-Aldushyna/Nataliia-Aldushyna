@@ -1,4 +1,4 @@
-# Hi👋, my name is Nataliia
+# Hi👋, my name is Nataliia Aldushyna
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome,+to+my+World!)](https://git.io/typing-svg)
 #### I'm a Graphic- and Web Designer :computer::art:
 ___
