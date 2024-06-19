@@ -11,7 +11,10 @@ ___
 ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat&logo=AdobePhotoshop "")
 ![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat&logo=AdobeIllustrator "")
 ![Adobe InDesign](https://img.shields.io/badge/-AdobeInDesign-black?style=flat&logo=AdobeInDesign "")
+
+<!--
 ![Adobe After Effects](https://img.shields.io/badge/-AdobeAfterEffects-black?style=flat&logo=AdobeAfterEffects "")
+-->
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=Figma "")
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=AdobeXD "")
