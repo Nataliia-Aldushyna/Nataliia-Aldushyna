@@ -18,8 +18,10 @@ ___
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=Figma "")
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-black?style=flat&logo=AdobeXD "")
+<!--
 ![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat&logo=Sketch "")
 ![Invision](https://img.shields.io/badge/-Invision-black?style=flat&logo=Invision "")
+-->
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
